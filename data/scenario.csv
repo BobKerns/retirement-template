@@ -1,0 +1,3 @@
+Name,PrettyName,Start,End,Notes
+Default,,2021-09-01,,The default scenario. You can define others and specify what scenarios items are included in.
+Default,,2050-09-01,true,End date for this scenario

@@ -1,0 +1,3 @@
+Name,PrettyName,Scenarios,Start,End,State,Notes
+US,Federal,,,,US,US = Federal
+CA,California,,,,CA,If you need other states you'll have to add them
