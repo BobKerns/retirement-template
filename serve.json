@@ -1,0 +1,37 @@
+{
+  "cleanUrls": false,
+  "trailingSlash": true,
+  "directoryListing": [
+      "/data"
+  ],
+  "redirects": [
+    { "source": "/:p1.csv", "destination": "/data/:p1.csv"}
+  ],
+  "rewrites": [
+    {"source": "/", "destination": "/index.html"},
+    { "source": "/docs/:p1", "destination": "/README.md"}
+  ],
+  "unlisted": [
+      ".gitignore"
+  ],
+  "headers": [
+        {
+            "source": "**/*.@(csv|json|html|md)",
+            "headers" : [
+                {
+                    "key": "Cache-Control",
+                    "value": "max-age=0, must-revalidate"
+                }
+            ]
+        },
+        {
+            "source": "404.html",
+            "headers" : [
+                {
+                    "key": "Cache-Control",
+                    "value": "max-age=0, must-revalidate"
+                }
+            ]
+        }
+    ]
+}

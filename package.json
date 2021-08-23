@@ -1,0 +1,29 @@
+{
+    "name": "retirement-data",
+    "version": "0.1.0",
+    "description": "My Retirement Data",
+    "scripts": {
+        "preserve": "marked -o index.html <README.md",
+        "serve": "serve -l 3036 -C",
+        "check": "echo 'This is not implemented yet, sorry' 2>&1"
+    },
+    "keywords": [
+        "retirement",
+        "finance",
+        "observablehq",
+        "typescript",
+        "observablehq"
+    ],
+    "author": "Bob Kerns",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/BobKerns/retirement-simulator/issues"
+    },
+    "homepage": "https://github.com/BobKerns/retirement-simulator#readme",
+    "devDependencies": {
+        "serve": "^12.0.0"
+    },
+    "dependencies": {
+        "marked": "^3.0.1"
+    }
+}
