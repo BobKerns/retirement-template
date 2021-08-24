@@ -1,2 +1,2 @@
-Name,PrettyName,Start,End,Value,Period,Notes
-pay,Pay Check,,,11000,monthly,A periodic source of income (fixed from Start until End, exclusive)
+Name,PrettyName,Scenarios,Categories,Start,End,Value,Period,Notes
+pay,Pay Check,,,,,11000,monthly,"A periodic source of income (fixed from Start until End, exclusive)"

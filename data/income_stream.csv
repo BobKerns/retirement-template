@@ -1,2 +1,2 @@
-Name,PrettyName,Scenarios,Start,End,Spec,Notes
-default,,,,,pay,JSON-formatted spec for how expenses will be met. See the documentation.
+Name,PrettyName,Scenarios,Categories,Start,End,Spec,Notes
+default,,,,,,pay,"JSON-formatted spec for how expenses will be met. See the documentation."
