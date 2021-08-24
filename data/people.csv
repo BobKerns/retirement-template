@@ -1,4 +1,4 @@
-Name,PrettyName,Scenarios,Categories,Birth,Sex,Notes
-spouse1,Bill,,,1950-02-22,male,"One spouse. The names matter. If single, define spouse1."
-spouse2,Mary,,,1956-03-30,female,This is a note.
-child1,Sue,,,1985-03-02,female,Other people besides spouse1 and spouse2 are not currently used.
+Name,PrettyName,Sort,Scenarios,Categories,Birth,Sex,Notes
+spouse1,Bill,,,,1950-02-22,male,"One spouse. The names matter. If single, define spouse1."
+spouse2,Mary,,,,1956-03-30,female,This is a note.
+child1,Sue,,,,1985-03-02,female,Other people besides spouse1 and spouse2 are not currently used.

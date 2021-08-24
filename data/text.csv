@@ -1,2 +1,2 @@
-Name,PrettyName,Scenarios,Categories,Start,End,Text
-msg,,,,,,"This is a message. It can be used to display personalized text in the UI. It can depend on dates as well."
+Name,PrettyName,Sort,Scenarios,Categories,Start,End,Text
+msg,,,,,,,"This is a message. It can be used to display personalized text in the UI. It can depend on dates as well."
