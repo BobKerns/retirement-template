@@ -1,2 +1,2 @@
-Name,PrettyName,Sort,Scenarios,Categories,Start,End,Value,Rate,RateType,Payment,PaymentPeriod,FromStream,Notes
+Name,PrettyName,Sort,Scenarios,Categories,Start,End,Value,Rate,RateType,Payment,PaymentPeriod,From,Notes
 house,House,,,house,2021-01-01,,377000,3.5,year,1700,month,,"A loan with interest rate, as simple annual and monthly payments"
